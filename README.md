@@ -1,7 +1,7 @@
 # Meu Projeto Bacanudo
 
 ![Projeto Bacanudo](https://img.shields.io/badge/Projeto-Bacanudo-yellowgreen)
-![Nome](https://img.shields.io/badge/MICHAEL-KNOPACKI-F1FAEE?style=for-the-badge&logo=twitter&logoColor=BLACK)
+![Nome](https://img.shields.io/badge/MICHAEL-KNOPACKI-F1FAEE?style=for-the-badge&logoColor=BLACK)
 
 
 ![pexels-nika-akin-3315116](https://user-images.githubusercontent.com/77402918/104724900-1b0f1a80-5710-11eb-9a96-116ab59ddcf6.jpg)
