@@ -1,11 +1,12 @@
 # Meu Projeto Bacanudo
 
 ![Projeto Bacanudo](https://img.shields.io/badge/Projeto-Bacanudo-yellowgreen)
+![Nome](https://img.shields.io/badge/MICHAEL-KNOPACKI-F1FAEE?style=for-the-badge&logo=twitter&logoColor=BLACK)
 
 
 ![pexels-nika-akin-3315116](https://user-images.githubusercontent.com/77402918/104724900-1b0f1a80-5710-11eb-9a96-116ab59ddcf6.jpg)
 
-:star: deiexe uma estrela no GiHub para nos ajudar
+:star: deixe uma estrela no GiHub para nos ajudar
 
 [Projeto Bacanudo](https://github.com/MichaelKnopacki/meuProjetoBacanudo) Silvio Santos Ipsum Qual é a musicamm? Ma vejam só, vejam só. É dinheiro ou não éam? Um, dois três, quatro, PIM, entendeuam? O arriscam tuduam, valendo um milhão de reaisuam. Vem pra lá, mah você vai pra cá. Agora vai, agora vem pra láamm. Valendo um milhão de reaisammm.
 
